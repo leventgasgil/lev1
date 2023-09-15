@@ -35,7 +35,7 @@
 
 <script>
     // Map initialization 
-    var map = L.map('map').setView([52.08349, 5.14768], 19);
+    var map = L.map('map').setView([52.08315390396508, 5.147858512890708], 18);
 
     //osm layer
     var osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -44,9 +44,56 @@
     osm.addTo(map);
 
     //Marker add
-    var marker = L.marker([52.08349, 5.14768])
+    var marker = L.marker([52.083541, 5.148051])
     .bindPopup('<iframe width="280" height="153" src="https://www.youtube.com/embed/j4zO5AtcGKk?si=Dn3pp1A8tuhKl4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>')
     .addTo(map)
     .openPopup();
+    
+     //Marker add
+    var marker = L.marker([52.082098490797975, 5.1485785368547665])
+    .bindPopup('<iframe width="280" height="153" src="https://www.youtube.com/embed/vrQ2AmJZFQc?si=2CElG1jjYFgnPv_R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>')
+    .addTo(map);
 
+ //Marker add
+    var marker = L.marker([52.08374509113428, 5.147316458896066])
+    .bindPopup('<iframe width="280" height="153" src="https://www.youtube.com/embed/E_2GuqD033s?si=9svhAUbsA1bvi9WU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>')
+    .addTo(map);
+    
+    //Marker add
+    var marker = L.marker([52.08321214019411, 5.147756568143085])
+    .bindPopup('<iframe width="280" height="153" src="https://www.youtube.com/embed/n4DMu-Q7-S0?si=G6H7xVZdTUxtYxjV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>')
+    .addTo(map);
+    
+    //Marker add
+    var marker = L.marker([52.0822894040978, 5.1476724296145075])
+    .bindPopup('<iframe width="280" height="153" src="https://www.youtube.com/embed/RBBVyCOasrE?si=aruN4chCFYo4Ss6f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>')
+    .addTo(map);
+
+//Marker add
+    var marker = L.marker([52.083446798477446, 5.146869877464997])
+    .bindPopup('<iframe width="280" height="153" src="https://www.youtube.com/embed/6aB_trSFG7Y?si=aSpdOk1x9Pe7-n-V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>')
+    .addTo(map);
+
+//Marker add
+    var marker = L.marker([52.08241491344924, 5.148850221920022])
+    .bindPopup('<iframe width="280" height="153" src="https://www.youtube.com/embed/e7mhu3fYytE?si=GaM-RsLC-cBqa4MQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>')
+    .addTo(map);
+
+//Marker add
+    var marker = L.marker([52.08211259560209, 5.14692927374769])
+    .bindPopup('<iframe width="280" height="153" src="https://www.youtube.com/embed/RDJEc8P1B6E?si=kmbvK8vE0XOJJfQr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>')
+    .addTo(map);
+
+//Marker add
+    var marker = L.marker([52.08323548009069, 5.149802887260539])
+    .bindPopup('<iframe width="280" height="153" src="https://www.youtube.com/embed/-PxxXq37ONs?si=tSKUMqjMypOosvPF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>')
+    .addTo(map);
+    
+    //Marker add
+    var marker = L.marker([52.0819638352811, 5.148498828948623])
+    .bindPopup('<iframe width="280" height="153" src="https://www.youtube.com/embed/jCLoTkeGqjI?si=fczTziiPScPz7uar" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>')
+    .addTo(map);
+    
+    
+    
 </script>
