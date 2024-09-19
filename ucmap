@@ -1,0 +1,194 @@
+<style>
+	#hotspot-1155 .hotspots-image-container,
+	#hotspot-1155 .leaflet-container {
+	background: #ffffff }
+	
+	#hotspot-1155 .hotspots-placeholder {
+	background: #ebebeb;
+	border: 0 #ebebeb solid;
+	color: #333333;
+	}
+	
+	#hotspot-1155 .hotspot-title {
+	color: #93C7A4;
+	}
+	
+	#hotspot-1155 .hotspot-default {
+	stroke-width: 2;
+	fill: #ffffff;
+	fill-opacity: 0;
+	stroke: #ffffff;
+	stroke-opacity: 0;
+	}
+	#hotspot-1155 .hotspot-default:hover,
+	#hotspot-1155 .hotspot-default:focus,
+	#hotspot-1155 .hotspot-default.hotspot-active {
+	fill: #3CA2A2;
+	fill-opacity: 0.01;
+	stroke: #235B6E;
+	stroke-opacity: 0.01;
+	}
+	#hotspot-1155 .leaflet-tooltip,
+	#hotspot-1155 .leaflet-rrose-content-wrapper {
+	background: #ebebeb;
+	border-color: #ebebeb;
+	color: #333333;
+	}
+	
+	#hotspot-1155 a.leaflet-rrose-close-button {
+	color: #93C7A4;
+	}
+	
+	#hotspot-1155 .leaflet-rrose-tip {
+	background: #ebebeb;
+	}
+	
+	#hotspot-1155 .leaflet-popup-scrolled {
+	border-bottom-color: #333333;
+	border-top-color: #333333;
+	}
+	
+	#hotspot-1155 .leaflet-tooltip-top:before {
+	border-top-color: #ebebeb;
+	}
+	
+	#hotspot-1155 .leaflet-tooltip-bottom:before {
+	border-bottom-color: #ebebeb;
+	}
+	#hotspot-1155 .leaflet-tooltip-left:before {
+	border-left-color: #ebebeb;
+	}
+	#hotspot-1155 .leaflet-tooltip-right:before {
+	border-right-color: #ebebeb;
+	}
+	</style>
+	
+	
+	<div class="hotspots-container links-only layout-left event-click" id="hotspot-1155" data-layout="left" data-trigger="click">
+	<div class="hotspots-interaction">
+	<div class="hotspots-image-container">
+	<img
+	width="1496"
+	height="1778"
+	src="https://universitycollege.nl/wp-content/uploads/2024/09/map-dots-text-new.png"
+	alt="map-1"
+	class="hotspots-image skip-lazy"
+	usemap="#hotspots-image-1155"
+	data-image-title="map-1"
+	data-image-description=""
+	data-event-trigger="click"
+	data-always-visible="false"
+	data-id="1155"
+	data-no-lazy="1"
+	data-lazy-src=""
+	data-lazy="false"
+	loading="eager"
+	data-skip-lazy="1"
+	>
+	</div> </div>
+	<map name="hotspots-image-1155" class="hotspots-map">
+	<area
+	shape="polygon"
+	coords="303,822,303,690,614,690,614,822"
+	href="https://universitycollege.nl/discover-the-colleges/amsterdam-university-college/"
+
+	rel=""
+	title="Amsterdam"
+	alt="Amsterdam"
+	data-action="url"
+	data-color-scheme=""
+	target=""
+	class="url-area"
+	>
+	<area
+	shape="polygon"
+	coords="401,1138,401,1000,691,1000,691,1138"
+	href="https://universitycollege.nl/discover-the-colleges/erasmus-university-college/"
+
+	rel=""
+	title="Erasmus"
+	alt="Erasmus"
+	data-action="url"
+	data-color-scheme=""
+	target=""
+	class="url-area"
+	>
+	<area
+	shape="polygon"
+	coords="139,1003,139,876,441,876,441,1003"
+	href="https://universitycollege.nl/discover-the-colleges/leiden-university-college/"
+
+	rel=""
+	title="Leiden"
+	alt="Leiden"
+	data-action="url"
+	data-color-scheme=""
+	target=""
+	class="url-area"
+	>
+	<area
+	shape="polygon"
+	coords="986,296,986,166,1285,166,1285,296"
+	href="https://universitycollege.nl/discover-the-colleges/university-college-groningen/"
+
+	rel=""
+	title="Groningen"
+	alt="Groningen"
+	data-action="url"
+	data-color-scheme=""
+	target=""
+	class="url-area"
+	>
+	<area
+	shape="polygon"
+	coords="661,1769,661,1637,971,1637,971,1769"
+	href="https://universitycollege.nl/discover-the-colleges/university-college-maastricht/"
+
+	rel=""
+	title="Maastricht"
+	alt="Maastricht"
+	data-action="url"
+	data-color-scheme=""
+	target=""
+	class="url-area"
+	>
+	<area
+	shape="polygon"
+	coords="66,1373,66,1237,363,1237,363,1373"
+	href="https://universitycollege.nl/discover-the-colleges/university-college-roosevelt/"
+
+	rel=""
+	title="Roosevelt"
+	alt="Roosevelt"
+	data-action="url"
+	data-color-scheme=""
+	target=""
+	class="url-area"
+	>
+	<area
+	shape="polygon"
+	coords="594,1303,594,1173,895,1173,895,1303"
+	href="https://universitycollege.nl/discover-the-colleges/university-college-tilburg/"
+
+	rel=""
+	title="Tilburg"
+	alt="Tilburg"
+	data-action="url"
+	data-color-scheme=""
+	target=""
+	class="url-area"
+	>
+	<area
+	shape="polygon"
+	coords="643,948,643,828,941,828,941,948"
+	href="https://universitycollege.nl/discover-the-colleges/university-college-utrecht/"
+
+	rel=""
+	title="Utrecht"
+	alt="Utrecht"
+	data-action="url"
+	data-color-scheme=""
+	target=""
+	class="url-area"
+	>
+	</map>
